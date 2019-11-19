@@ -1,8 +1,12 @@
 {
-  "name": "anilist",
-  "version": "0.1.0",
+  "name": "country_list",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@apollo/react-hooks": "^3.1.3",
+    "apollo-boost": "^0.4.4",
+    "bootstrap": "4.3.1",
+    "graphql": "^14.5.8",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
